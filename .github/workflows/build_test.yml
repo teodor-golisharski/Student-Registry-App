@@ -20,5 +20,7 @@ jobs:
         cache: 'npm'
     - name: Install program dependencies
       run: npm install
+    - name: Start the app
+      run: npm run start
     - name: Run integration tests
       run: npm run test
