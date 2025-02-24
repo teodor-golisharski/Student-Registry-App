@@ -15,6 +15,8 @@ The Student Registry App is a simple demo application designed to practise CI/CD
 - Deployment: Render
 
 # Link: [Student Registry App](https://student-registry-app-i94g.onrender.com)
+
 ## ⚠️ **Caution**
-> **This application is intended for _educational and demonstration purposes only_.**  
+> **This application is intended for _educational purposes only_.**
 > It is not designed for production use and may lack the security, scalability, and performance optimizations required for real-world applications.
+> Additionally, this project intentionally lacks UI design as its primary focus is building CI/CD pipelines, emphasizing testing, automation, and deployment.
