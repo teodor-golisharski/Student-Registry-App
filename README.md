@@ -1,7 +1,7 @@
 # Student Registry App
 
 ## Overview
-The Student Registry App is a simple demo application designed for practising CI/CD workflows using GitHub Actions. It is deployed on Render to demonstrate an automated deployment pipeline.
+The Student Registry App is a simple demo application designed to practise CI/CD workflows using GitHub Actions. It is deployed on Render to demonstrate an automated deployment pipeline.
 
 ## Features
 - CRUD operations for managing student records
@@ -13,3 +13,8 @@ The Student Registry App is a simple demo application designed for practising CI
 - Backend: Node.js
 - CI/CD: GitHub Actions
 - Deployment: Render
+
+# Link: [Student Registry App](https://student-registry-app-i94g.onrender.com)
+## ⚠️ **Caution**
+> **This application is intended for _educational and demonstration purposes only_.**  
+> It is not designed for production use and may lack the security, scalability, and performance optimizations required for real-world applications.
